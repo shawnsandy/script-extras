@@ -1,0 +1,23 @@
+{
+  "name": "script-extras",
+  "version": "0.0.1",
+  "description": "A couple of handy npm packages and scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnsandy/script-extras.git"
+  },
+  "keywords": [
+    "JS",
+    "npm"
+  ],
+  "author": "shawn shawn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawnsandy/script-extras/issues"
+  },
+  "homepage": "https://github.com/shawnsandy/script-extras#readme"
+}
